@@ -11,7 +11,9 @@ const server = new ApolloServer({
   typeDefs
 })
 
-const listening = (async () => {
+let listening: Promise<void>
+
+listening = (async () => {
   await server.listen()
 })()
 

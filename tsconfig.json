@@ -3,9 +3,8 @@
     "target": "es5",
     "module": "commonjs",
     "lib": [
-      "dom",
-      "es6",
-      "esnext"
+      "esnext",
+      "dom"
     ],
     "removeComments": true,
     "rootDir": "./src",
