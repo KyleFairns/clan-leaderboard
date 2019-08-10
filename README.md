@@ -1,6 +1,11 @@
-## Serenity.js with Protractor-Cucumber
+## Clan Leaderboards for Destiny 2
 
-This test suite has an extreme focus on the users that will be going through the journey,
-rather than focusing on the interactions with the page.
+Ever wanted to know how much you're playing with your clan mates? \
+Maybe you've wondered what your clans meta is for each activity? \
+Perhaps you're just wanting to see how many kills you've racked up so you can have bragging rights...
 
-Written with
+No matter what you're here for, we've got you, Guardian.
+
+All you need to do is have your founder sign up, and boom, we'll start collecting your clans history of carnage
+
+At first, you'll only see a weeks worth of information, but that will be updated as soon as possible
