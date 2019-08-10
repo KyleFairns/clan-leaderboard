@@ -29,7 +29,10 @@ exports.config = {
             'test/features/step_definitions/**/*.ts',
             'test/features/support/setup.ts'
         ],
-        'require-module': ['ts-node/register']
+        'require-module': ['ts-node/register'],
+        tags: [
+          "not @wip"
+        ]
     },
 
     baseUrl: "http://localhost:4000",
