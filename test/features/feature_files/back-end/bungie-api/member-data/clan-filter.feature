@@ -16,16 +16,16 @@ Ability: Filter through the member data to get the games that are with other cla
 
     Scenarios:
       | activity                         |
-      | Crucible Rotation - Lockdown     |
-      | Crucible Rotation - Mayhem       |
-      | Crucible Rotation -Supremacy     |
-      | Crucible Rotation - Iron Banner  |
-      | Crucible Quickplay - Control     |
-      | Crucible Quickplay - Clash       |
       | Crucible Competitive - Control   |
       | Crucible Competitive - Clash     |
       | Crucible Competitive - Survival  |
       | Crucible Competitive - Countdown |
+      | Crucible Quickplay - Control     |
+      | Crucible Quickplay - Clash       |
+      | Crucible Rotation - Lockdown     |
+      | Crucible Rotation - Mayhem       |
+      | Crucible Rotation -Supremacy     |
+      | Crucible Rotation - Iron Banner  |
       | Drifter - Gambit                 |
       | Drifter - Gambit Prime           |
       | Drifter - Reckoning              |
@@ -51,16 +51,16 @@ Ability: Filter through the member data to get the games that are with other cla
 
     Scenarios:
       | activity                         |
-      | Crucible Rotation - Lockdown     |
-      | Crucible Rotation - Mayhem       |
-      | Crucible Rotation -Supremacy     |
-      | Crucible Rotation - Iron Banner  |
-      | Crucible Quickplay - Control     |
-      | Crucible Quickplay - Clash       |
       | Crucible Competitive - Control   |
       | Crucible Competitive - Clash     |
       | Crucible Competitive - Survival  |
       | Crucible Competitive - Countdown |
+      | Crucible Quickplay - Control     |
+      | Crucible Quickplay - Clash       |
+      | Crucible Rotation - Lockdown     |
+      | Crucible Rotation - Mayhem       |
+      | Crucible Rotation -Supremacy     |
+      | Crucible Rotation - Iron Banner  |
       | Drifter - Gambit                 |
       | Drifter - Gambit Prime           |
       | Drifter - Reckoning              |
@@ -77,4 +77,3 @@ Ability: Filter through the member data to get the games that are with other cla
       | Vanguard - Strike                |
       | Vanguard - Nightfall             |
       | Vanguard - Heroic Story Mission  |
-
