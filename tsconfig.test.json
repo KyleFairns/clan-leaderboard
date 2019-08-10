@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "es6",
+      "esnext"
+    ],
+    "removeComments": true,
+    "rootDir": "./test"
+  },
+  "exclude": [
+    "./node_modules",
+    "./src"
+  ],
+  "include": [
+    "./test/**/*.ts"
+  ],
+  "esModuleInterop": true
+}
