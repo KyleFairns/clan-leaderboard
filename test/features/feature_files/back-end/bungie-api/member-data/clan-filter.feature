@@ -15,33 +15,33 @@ Ability: Filter through the member data to get the games that are with other cla
     Then the activity should be accepted by the clan filter
 
     Scenarios:
-      | activity                        |
-      | Strike                          |
-      | Nightfall                       |
-      | Heroic Story Mission            |
-      | Lockdown                        |
-      | Mayhem                          |
-      | Supremacy                       |
-      | Quickplay - Control             |
-      | Quickplay - Clash               |
-      | Competitive - Control           |
-      | Competitive - Clash             |
-      | Competitive - Survival          |
-      | Competitive - Countdown         |
-      | Competitive - Iron Banner       |
-      | Gambit                          |
-      | Gambit Prime                    |
-      | Reckoning                       |
-      | Menagerie                       |
-      | Raid - Eater of Worlds          |
-      | Raid - Leviathan                |
-      | Raid - Spire of Stars           |
-      | Raid - Prestige Eater of Worlds |
-      | Raid - Prestige Leviathan       |
-      | Raid - Prestige Spire of Stars  |
-      | Raid - Last Wish                |
-      | Raid - Scourge of the Past      |
-      | Raid - Crown of Sorrow          |
+      | activity                         |
+      | Crucible Rotation - Lockdown     |
+      | Crucible Rotation - Mayhem       |
+      | Crucible Rotation -Supremacy     |
+      | Crucible Rotation - Iron Banner  |
+      | Crucible Quickplay - Control     |
+      | Crucible Quickplay - Clash       |
+      | Crucible Competitive - Control   |
+      | Crucible Competitive - Clash     |
+      | Crucible Competitive - Survival  |
+      | Crucible Competitive - Countdown |
+      | Drifter - Gambit                 |
+      | Drifter - Gambit Prime           |
+      | Drifter - Reckoning              |
+      | Raid - Eater of Worlds           |
+      | Raid - Leviathan                 |
+      | Raid - Spire of Stars            |
+      | Raid - Prestige Eater of Worlds  |
+      | Raid - Prestige Leviathan        |
+      | Raid - Prestige Spire of Stars   |
+      | Raid - Last Wish                 |
+      | Raid - Scourge of the Past       |
+      | Raid - Crown of Sorrow           |
+      | Other - Menagerie                |
+      | Vanguard - Strike                |
+      | Vanguard - Nightfall             |
+      | Vanguard - Heroic Story Mission  |
 
   @reject @less-than-two-clan-members
   Scenario Template: Reject Reason: Less than two clan members played the activity
@@ -50,30 +50,31 @@ Ability: Filter through the member data to get the games that are with other cla
     Then the activity should be rejected by the clan filter
 
     Scenarios:
-      | activity                        |
-      | Strike                          |
-      | Nightfall                       |
-      | Heroic Story Mission            |
-      | Lockdown                        |
-      | Mayhem                          |
-      | Supremacy                       |
-      | Quickplay - Control             |
-      | Quickplay - Clash               |
-      | Competitive - Control           |
-      | Competitive - Clash             |
-      | Competitive - Survival          |
-      | Competitive - Countdown         |
-      | Competitive - Iron Banner       |
-      | Gambit                          |
-      | Gambit Prime                    |
-      | Reckoning                       |
-      | Menagerie                       |
-      | Raid - Eater of Worlds          |
-      | Raid - Leviathan                |
-      | Raid - Spire of Stars           |
-      | Raid - Prestige Eater of Worlds |
-      | Raid - Prestige Leviathan       |
-      | Raid - Prestige Spire of Stars  |
-      | Raid - Last Wish                |
-      | Raid - Scourge of the Past      |
-      | Raid - Crown of Sorrow          |
+      | activity                         |
+      | Crucible Rotation - Lockdown     |
+      | Crucible Rotation - Mayhem       |
+      | Crucible Rotation -Supremacy     |
+      | Crucible Rotation - Iron Banner  |
+      | Crucible Quickplay - Control     |
+      | Crucible Quickplay - Clash       |
+      | Crucible Competitive - Control   |
+      | Crucible Competitive - Clash     |
+      | Crucible Competitive - Survival  |
+      | Crucible Competitive - Countdown |
+      | Drifter - Gambit                 |
+      | Drifter - Gambit Prime           |
+      | Drifter - Reckoning              |
+      | Raid - Eater of Worlds           |
+      | Raid - Leviathan                 |
+      | Raid - Spire of Stars            |
+      | Raid - Prestige Eater of Worlds  |
+      | Raid - Prestige Leviathan        |
+      | Raid - Prestige Spire of Stars   |
+      | Raid - Last Wish                 |
+      | Raid - Scourge of the Past       |
+      | Raid - Crown of Sorrow           |
+      | Other - Menagerie                |
+      | Vanguard - Strike                |
+      | Vanguard - Nightfall             |
+      | Vanguard - Heroic Story Mission  |
+
