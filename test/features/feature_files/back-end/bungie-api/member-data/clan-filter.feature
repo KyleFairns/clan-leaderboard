@@ -24,7 +24,7 @@ Ability: Filter through the member data to get the games that are with other cla
       | Crucible Quickplay - Clash       |
       | Crucible Rotation - Lockdown     |
       | Crucible Rotation - Mayhem       |
-      | Crucible Rotation - Supremacy     |
+      | Crucible Rotation - Supremacy    |
       | Crucible Rotation - Iron Banner  |
       | Drifter - Gambit                 |
       | Drifter - Gambit Prime           |
@@ -59,7 +59,7 @@ Ability: Filter through the member data to get the games that are with other cla
       | Crucible Quickplay - Clash       |
       | Crucible Rotation - Lockdown     |
       | Crucible Rotation - Mayhem       |
-      | Crucible Rotation - Supremacy     |
+      | Crucible Rotation - Supremacy    |
       | Crucible Rotation - Iron Banner  |
       | Drifter - Gambit                 |
       | Drifter - Gambit Prime           |
