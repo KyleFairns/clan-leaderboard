@@ -67,7 +67,7 @@
     "angular": "^1.7.8",
     "mongoose": "^5.6.7",
     "bungie-api-ts": "^2.1.0",
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.25.4",
     "apollo-client": "^2.6.3"
   }
 }
